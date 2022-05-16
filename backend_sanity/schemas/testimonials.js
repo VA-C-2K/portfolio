@@ -14,6 +14,11 @@ export default {
             type:'string'
         },
         {
+            name:'designation',
+            title:'Designation',
+            type:'string'
+        },
+        {
             name:'imgurl',
             title:'ImgUrl',
             type: 'image',
